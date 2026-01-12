@@ -165,7 +165,7 @@ const benefitLabels = {
 // コンポーネント
 // -----------------------------------------------------------------------------
 
-export default function Home() {
+export default function SubsidyMap() {
   const [selectedSubsidy, setSelectedSubsidy] = useState<Subsidy | null>(null);
 
   return (
